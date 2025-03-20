@@ -20,7 +20,7 @@ settings_collection = db['settings0']  # A new collection to store global settin
 redeem_codes_collection = db['redeem_codes0']
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '7879783137:AAHGoGK14RKtKI0nEFmvA9WRtrGz3aoVt9s'
+TELEGRAM_BOT_TOKEN = '7879783137:AAGvmgnNeKasW-kAcdfkWy23Ij2pgTC8tMw'
 ADMIN_USER_ID = 1549748318 # Replace with your admin user ID
 
 async def help_command(update: Update, context: CallbackContext):
